@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T14:46:38.226Z",
-  "source": "Música UNAM",
+  "generatedAt": "2026-11-24T14:56:56.202Z",
+  "source": "Música UNAM y Cenart",
   "events": [
     {
       "id": "unam-2026-recital-clarinete",
@@ -87,5 +87,84 @@
       "verifiedAt": "2026-11-24T14:46:38.226Z"
     }
   ],
-  "promos": []
+  "promos": [
+    {
+      "id": "cenart-2026-cuerpos-online",
+      "type": "promos",
+      "name": "2×1 en línea · Cuerpos (des) atomizados",
+      "date": "2026-11-25",
+      "venue": "Foro Experimental Black Box · funciones del 26 al 29 nov",
+      "city": "Ciudad de México",
+      "url": "https://cenart.gob.mx/eventos/cuerpos-des-atomizados-laboratorio-interdisciplinario-sobre-las-formas-contemporaneas-de-habitar-el-cuerpo/",
+      "source": "Cenart",
+      "verifiedAt": "2026-11-24T14:56:56.202Z",
+      "purchaseTerms": "Compra en línea el miércoles 25 de noviembre",
+      "event": "Cuerpos (des) atomizados"
+    },
+    {
+      "id": "cenart-2026-cronovuelos-online",
+      "type": "promos",
+      "name": "2×1 en línea · Cronovuelos de la memoria",
+      "date": "2026-11-25",
+      "venue": "Teatro de las Artes · funciones del 27 al 29 nov",
+      "city": "Ciudad de México",
+      "url": "https://cenart.gob.mx/eventos/cronovuelos-de-la-memoria-transito-cinco-artes-escenicas-20-anos-de-vuelo/",
+      "source": "Cenart",
+      "verifiedAt": "2026-11-24T14:56:56.202Z",
+      "purchaseTerms": "Compra en línea el miércoles 25 de noviembre",
+      "event": "Cronovuelos de la memoria"
+    },
+    {
+      "id": "cenart-2026-vargas-online",
+      "type": "promos",
+      "name": "2×1 en línea · Carlos Manuel Vargas",
+      "date": "2026-11-25",
+      "venue": "Auditorio Blas Galindo · función el 28 nov",
+      "city": "Ciudad de México",
+      "url": "https://cenart.gob.mx/eventos/carlos-manuel-vargas/",
+      "source": "Cenart",
+      "verifiedAt": "2026-11-24T14:56:56.202Z",
+      "purchaseTerms": "Compra en línea el miércoles 25 de noviembre",
+      "event": "Carlos Manuel Vargas"
+    },
+    {
+      "id": "cenart-2026-cuerpos-taquilla",
+      "type": "promos",
+      "name": "2×1 en taquilla · Cuerpos (des) atomizados",
+      "date": "2026-11-27",
+      "venue": "Foro Experimental Black Box · funciones del 26 al 29 nov",
+      "city": "Ciudad de México",
+      "url": "https://cenart.gob.mx/eventos/cuerpos-des-atomizados-laboratorio-interdisciplinario-sobre-las-formas-contemporaneas-de-habitar-el-cuerpo/",
+      "source": "Cenart",
+      "verifiedAt": "2026-11-24T14:56:56.202Z",
+      "purchaseTerms": "Compra en taquilla el viernes 27 de noviembre",
+      "event": "Cuerpos (des) atomizados"
+    },
+    {
+      "id": "cenart-2026-cronovuelos-taquilla",
+      "type": "promos",
+      "name": "2×1 en taquilla · Cronovuelos de la memoria",
+      "date": "2026-11-27",
+      "venue": "Teatro de las Artes · funciones del 27 al 29 nov",
+      "city": "Ciudad de México",
+      "url": "https://cenart.gob.mx/eventos/cronovuelos-de-la-memoria-transito-cinco-artes-escenicas-20-anos-de-vuelo/",
+      "source": "Cenart",
+      "verifiedAt": "2026-11-24T14:56:56.202Z",
+      "purchaseTerms": "Compra en taquilla el viernes 27 de noviembre",
+      "event": "Cronovuelos de la memoria"
+    },
+    {
+      "id": "cenart-2026-vargas-taquilla",
+      "type": "promos",
+      "name": "2×1 en taquilla · Carlos Manuel Vargas",
+      "date": "2026-11-27",
+      "venue": "Auditorio Blas Galindo · función el 28 nov",
+      "city": "Ciudad de México",
+      "url": "https://cenart.gob.mx/eventos/carlos-manuel-vargas/",
+      "source": "Cenart",
+      "verifiedAt": "2026-11-24T14:56:56.202Z",
+      "purchaseTerms": "Compra en taquilla el viernes 27 de noviembre",
+      "event": "Carlos Manuel Vargas"
+    }
+  ]
 }
