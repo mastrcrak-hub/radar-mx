@@ -1,6 +1,91 @@
 {
-  "generatedAt": null,
-  "source": "Sin fuente conectada todavía",
-  "events": [],
+  "generatedAt": "2026-11-24T14:46:38.226Z",
+  "source": "Música UNAM",
+  "events": [
+    {
+      "id": "unam-2026-recital-clarinete",
+      "name": "Luz Sedeño y Valeriia Prokofeva",
+      "type": "musica",
+      "date": "2026-11-25",
+      "time": "20:00",
+      "venue": "Sala Carlos Chávez",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/uploads/files/Cartelera_PUMA_Agosto-Diciembre2026.pdf",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    },
+    {
+      "id": "unam-2026-templum",
+      "name": "TEMPLUM ensamble",
+      "type": "musica",
+      "date": "2026-11-26",
+      "time": "20:00",
+      "venue": "Sala Carlos Chávez",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/uploads/files/Cartelera_PUMA_Agosto-Diciembre2026.pdf",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    },
+    {
+      "id": "unam-2026-giuffredi-aguilar",
+      "name": "Corrado Giuffredi y Alfredo Isaac Aguilar",
+      "type": "musica",
+      "date": "2026-11-27",
+      "time": "20:00",
+      "venue": "Sala Carlos Chávez",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/uploads/files/Cartelera_PUMA_Agosto-Diciembre2026.pdf",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    },
+    {
+      "id": "unam-2026-asako-arai",
+      "name": "Asako Arai, flauta",
+      "type": "musica",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "venue": "Auditorio del MUAC",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/uploads/files/Cartelera_PUMA_Agosto-Diciembre2026.pdf",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    },
+    {
+      "id": "unam-2026-ofunam-giuffredi",
+      "name": "OFUNAM con Corrado Giuffredi",
+      "type": "musica",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "venue": "Sala Nezahualcóyotl",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/calendario?calendar%5B0%5D=103",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    },
+    {
+      "id": "unam-2026-yolotli",
+      "name": "Yolotli, Coro de Mujeres de los Pueblos Indígenas de México",
+      "type": "musica",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "venue": "Anfiteatro Simón Bolívar",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/uploads/files/Cartelera_PUMA_Agosto-Diciembre2026.pdf",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    },
+    {
+      "id": "unam-2026-onix",
+      "name": "30 aniversario de Ónix Ensamble",
+      "type": "musica",
+      "date": "2026-11-29",
+      "time": "18:00",
+      "venue": "Sala Nezahualcóyotl",
+      "city": "Ciudad de México",
+      "url": "https://musica.unam.mx/uploads/files/Cartelera_PUMA_Agosto-Diciembre2026.pdf",
+      "source": "Música UNAM",
+      "verifiedAt": "2026-11-24T14:46:38.226Z"
+    }
+  ],
   "promos": []
 }
